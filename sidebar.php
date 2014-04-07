@@ -6,7 +6,12 @@
 ?>
 <?php if ( is_active_sidebar('Right Sidebar') ) : ?>
 <div id="sidebar">
-<span style="text-align: center;">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp	<script type="text/javascript" src="http://www.angieslist.com/webbadge/insertwebbadge.js?bid=fc70f185543c0994c59ef28c8d260a7d"></script>	<script type="text/javascript">if (BADGEBOX) BADGEBOX.PlaceBadge();</script></span><br /><br />
+	<a style="width: 125px; margin: 0 auto; display: block; position: relative; left: -15px;" target="_new" href="http://www.angieslist.com/companylist/us/co/denver/sunshine-plumbing-heating-air-reviews-6420880.aspx?cid=ssabadge">
+		<img style="border:0;" alt="DENVER heating &amp; air conditioning/hvac" src="http://www.angieslist.com/webbadge/fc70f185543c0994c59ef28c8d260a7d.png">
+	</a>	
+	
+	<br>
+	<br>
 	<h4>We’re here for you.</h4>
 	<div class="text-hoder">
 		<p>We haven’t met a plumbing, heating or air problem we couldn’t fix. Give us a call. We can help!</p>
@@ -16,14 +21,6 @@
 	{
 		dynamic_sidebar('left-nav');
 	}
-	?>	
-	<!-- <ul class="left-nav">
-		<li><a href="#">Water Heaters »</a></li>
-		<li><a href="#">Sump Pumps »</a></li>
-		<li><a href="#">Pressure Problems »</a></li>
-		<li><a href="#">Toilets »</a></li>
-		<li><a href="#">Furnaces and Boilers »</a></li>
-		<li><a href="#">Air Conditioners »</a></li>
-	</ul> -->
+	?>		
 </div>
 <?php endif; ?>
